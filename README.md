@@ -11,8 +11,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/frontend-mentor-qr-code-component-LGLKyEeZtj
-- Live Site URL: https://x3python.github.io/Frontend-Mentor-QR-code-component/
+- Solution URL: https://www.frontendmentor.io/solutions/frontend-mentor-order-summary-card-3_ctr1LFCy
+- Live Site URL: https://x3python.github.io/Frontend-Mentor---Order-summary-card/
 
 ### Built with
 
