@@ -98,7 +98,6 @@ content.text-area{
     font-family: 'Red Hat Display', sans-serif;
     font-weight: 700;
     font-size: 1rem;
-    box-shadow: 0 2 3;
 }
 section.footer{
     display: grid;
