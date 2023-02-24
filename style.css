@@ -99,9 +99,16 @@ content.text-area{
     font-weight: 700;
     font-size: 1rem;
 }
+.button:hover{
+    background-color: hsl(224, 23%, 55%);
+    border: solid hsl(224, 23%, 55%) 1rem;
+}
 section.footer{
     display: grid;
     justify-content: center;
+}
+.footer-link{
+    
 }
 h4{
     text-align: center;
