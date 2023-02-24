@@ -88,7 +88,7 @@ a.ch-link:hover{
 span.price{
     color: hsl(224, 23%, 55%);
 }
-content.text-area{
+section.text-area{
     display: grid;
     justify-content: center;
 }
